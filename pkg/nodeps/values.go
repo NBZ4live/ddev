@@ -131,6 +131,7 @@ const (
 	AppTypeWordPress = "wordpress"
 	AppTypeMagento   = "magento"
 	AppTypeMagento2  = "magento2"
+	AppTypeLaravel   = "laravel"
 )
 
 // Ports and other defaults
